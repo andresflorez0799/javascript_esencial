@@ -1,0 +1,22 @@
+{
+  "name": "javascript_esencial",
+  "version": "1.0.0",
+  "description": "test and custom practice git and js",
+  "main": "modo_estricto.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresflorez0799/javascript_esencial.git"
+  },
+  "author": "andres florez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresflorez0799/javascript_esencial/issues"
+  },
+  "homepage": "https://github.com/andresflorez0799/javascript_esencial#readme",
+  "dependencies": {
+    "mocha": "^9.1.3"
+  }
+}
