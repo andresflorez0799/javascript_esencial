@@ -22,3 +22,4 @@ console.log(variable_con_let);
 console.log(variable_con_var);
 console.log(constante_con_const);
 
+console.log("Esto es un cambios desde el editor de github.com");
